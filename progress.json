@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:20:06.506Z",
+  "generated_at": "2026-10-14T10:19:27.064Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -78,6 +78,17 @@
       "last_pushed_at": "2026-05-26T09:34:13.347Z",
       "language": "python",
       "lines": 20
+    },
+    "math:254": {
+      "kind": "math",
+      "id": "254",
+      "title": "Frechet Inception Distance: Gaussian Frechet Distance and Its Bias",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/254",
+      "path": "math/0254-frechet-inception-distance-gaussian-frechet-distance-and-its-bias",
+      "first_solved_at": "2026-10-14T10:19:26.272Z",
+      "last_pushed_at": "2026-10-14T10:19:26.272Z"
     }
   }
 }
