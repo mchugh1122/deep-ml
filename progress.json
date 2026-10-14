@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:19:27.064Z",
+  "generated_at": "2026-10-14T12:53:08.475Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -89,6 +89,17 @@
       "path": "math/0254-frechet-inception-distance-gaussian-frechet-distance-and-its-bias",
       "first_solved_at": "2026-10-14T10:19:26.272Z",
       "last_pushed_at": "2026-10-14T10:19:26.272Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-14T12:53:07.541Z",
+      "last_pushed_at": "2026-10-14T12:53:07.541Z"
     }
   }
 }

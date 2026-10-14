@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 6 problems · 0 labs · 1 math
+**8** solved · 6 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Frechet Inception Distance: Gaussian Frechet Distance and Its Bias](https://www.deep-ml.com/math-problems/254) | easy | 2026-10-14 | [solution](math/0254-frechet-inception-distance-gaussian-frechet-distance-and-its-bias) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-14 | [solution](math/0007-vector-operations) |
 
 ---
 
