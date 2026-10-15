@@ -1,15 +1,6 @@
 import numpy as np
 
 def calculate_dot_product(vec1, vec2):
-	"""
-	Calculate the dot product of two vectors.
-	Args:
-		vec1 (numpy.ndarray): 1D array representing the first vector.
-		vec2 (numpy.ndarray): 1D array representing the second vector.
-	Returns:
-		The dot product of the two vectors.
-	"""
-
     # 1. Safety: Guard clause catches length mismatches
     if len(vec1) != len(vec2):
         return -1
@@ -17,4 +8,3 @@ def calculate_dot_product(vec1, vec2):
     # 2 & 3. Readability & Memory Efficiency: Generator expression with zip
     return sum(x * y for x, y in zip(vec1, vec2))
 
-	pass
