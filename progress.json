@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T08:44:25.263Z",
+  "generated_at": "2026-10-16T13:56:50.337Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -99,7 +99,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-14T12:53:07.541Z",
-      "last_pushed_at": "2026-10-14T12:53:07.541Z"
+      "last_pushed_at": "2026-10-16T13:56:49.621Z"
     },
     "math:9": {
       "kind": "math",
