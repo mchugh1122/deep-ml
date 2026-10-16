@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:36:47.104Z",
+  "generated_at": "2026-10-16T15:37:54.138Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -110,7 +110,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-14T13:00:28.301Z",
-      "last_pushed_at": "2026-10-16T15:36:46.416Z"
+      "last_pushed_at": "2026-10-16T15:37:53.533Z"
     },
     "math:10": {
       "kind": "math",
