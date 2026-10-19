@@ -1,12 +1,12 @@
-def matrix_dot_vector(a: list[list[int|float]], b: list[int|float]) -> list[int|float]:
-	# Return a list where each element is the dot product of a row of 'a' with 'b'.
-	# If the number of columns in 'a' does not match the length of 'b', return -1.
+import numpy as np
 
-	if not a or len(a[0]) != len(b):
+
+def matrix_dot_vector(a, b):
+    a_arr = np.array(a)
+    b_arr = np.array(b)
+
+    # Ensure 2D matrix and 1D vector with matching column-to-vector dimensions
+    if a_arr.ndim != 2 or a_arr.shape[1] != len(b_arr):
         return -1
-    
-    # Calculate the dot product for each row of 'a' with vector 'b'.
-    return [sum(x * y for x, y in zip(row, b)) for row in a]
-	pass
 
-
+    return (a_arr @ b_arr).tolist()
