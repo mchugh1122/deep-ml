@@ -32,11 +32,3 @@ def compute_norm(arr, norm_type):
         )
 
 
-# Example Usage:
-arr = np.array([[1, 2], [3, 4]])
-
-print(
-    f"Frobenius Norm: {compute_norm(arr, 'frobenius'):.4f}"
-)  # Output: 5.4772
-print(f"L1 Norm: {compute_norm(arr, 'l1')}")  # Output: 10.0
-print(f"L-inf Norm: {compute_norm(arr, 'linf')}")  # Output: 4.0
