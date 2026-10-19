@@ -3,7 +3,7 @@ import numpy as np
 
 def compute_norm(arr, norm_type):
     # Ensure input is a NumPy array
-    arr = np.asarray(arr)
+   # arr = np.asarray(arr)
 
     # Validate norm_type and compute requested norm
     if norm_type == "l1":
