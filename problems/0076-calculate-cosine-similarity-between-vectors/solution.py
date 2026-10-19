@@ -11,10 +11,3 @@ def cosine_similarity(v1, v2):
 
     # Step 3: Divide dot product by product of lengths
     return dot_product / (length_v1 * length_v2)
-
-
-# Example test from prompt:
-v1 = np.array([1, 2, 3])
-v2 = np.array([2, 4, 6])
-
-print(round(cosine_similarity(v1, v2), 3))  # Output: 1.0

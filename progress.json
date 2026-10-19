@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:04:34.812Z",
+  "generated_at": "2026-10-19T15:06:29.480Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -182,9 +182,9 @@
       "url": "https://www.deep-ml.com/problems/76",
       "path": "problems/0076-calculate-cosine-similarity-between-vectors",
       "first_solved_at": "2026-10-16T08:44:24.611Z",
-      "last_pushed_at": "2026-10-19T15:04:34.206Z",
+      "last_pushed_at": "2026-10-19T15:06:28.811Z",
       "language": "python",
-      "lines": 20
+      "lines": 14
     },
     "math:1": {
       "kind": "math",
