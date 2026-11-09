@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:46:53.592Z",
+  "generated_at": "2026-11-09T11:13:55.611Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -549,6 +549,17 @@
       "last_pushed_at": "2026-11-06T13:46:52.952Z",
       "language": "python",
       "lines": 23
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-11-09T11:13:54.995Z",
+      "last_pushed_at": "2026-11-09T11:13:54.995Z"
     }
   }
 }
