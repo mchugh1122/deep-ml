@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:53:42.999Z",
+  "generated_at": "2026-11-10T13:37:49.923Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -595,6 +595,17 @@
       "last_pushed_at": "2026-11-09T16:53:42.304Z",
       "language": "python",
       "lines": 24
+    },
+    "math:49": {
+      "kind": "math",
+      "id": "49",
+      "title": "PCA via Covariance Eigendecomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/49",
+      "path": "math/0049-pca-via-covariance-eigendecomposition",
+      "first_solved_at": "2026-11-10T13:37:49.258Z",
+      "last_pushed_at": "2026-11-10T13:37:49.258Z"
     }
   }
 }
