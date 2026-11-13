@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 28 problems · 0 labs · 22 math
+**51** solved · 29 problems · 0 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-19 | [solution](problems/0009-matrix-times-matrix) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-11-09 | [solution](problems/0801-polynomial-regression-fit) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-26 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-11-13 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
 ## Math
 
